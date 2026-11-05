@@ -1,0 +1,17 @@
+{
+  "name": "titties",
+  "version": "0.1.9",
+  "description": "Claude calls you out loud, with a local offline Piper voice, when it needs your permission or an answer.",
+  "author": {
+    "name": "Alessandro Lattao"
+  },
+  "homepage": "https://github.com/alessandrolattao/titties",
+  "repository": "https://github.com/alessandrolattao/titties",
+  "license": "GPL-3.0",
+  "keywords": [
+    "tts",
+    "voice",
+    "notifications",
+    "piper"
+  ]
+}

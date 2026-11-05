@@ -1,0 +1,11 @@
+{
+  "name": "titties",
+  "owner": { "name": "Alessandro Lattao" },
+  "plugins": [
+    {
+      "name": "titties",
+      "source": "./",
+      "description": "Claude calls you out loud, with a local offline Piper voice, when it needs your permission or an answer."
+    }
+  ]
+}
