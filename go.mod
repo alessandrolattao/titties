@@ -6,7 +6,7 @@ require (
 	charm.land/huh/v2 v2.0.3
 	github.com/csukuangfj/piper-phonemize-go v1.5.2
 	github.com/ebitengine/oto/v3 v3.5.1
-	github.com/k2-fsa/sherpa-onnx-go/v2 v2.0.1
+	github.com/k2-fsa/sherpa-onnx-go/v2 v2.0.3
 )
 
 require (
@@ -31,9 +31,9 @@ require (
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/ebitengine/purego v0.11.0 // indirect
 	github.com/jfreymuth/pulse v0.1.3 // indirect
-	github.com/k2-fsa/sherpa-onnx-go-linux/v2 v2.0.1 // indirect
-	github.com/k2-fsa/sherpa-onnx-go-macos/v2 v2.0.1 // indirect
-	github.com/k2-fsa/sherpa-onnx-go-windows/v2 v2.0.1 // indirect
+	github.com/k2-fsa/sherpa-onnx-go-linux/v2 v2.0.3 // indirect
+	github.com/k2-fsa/sherpa-onnx-go-macos/v2 v2.0.3 // indirect
+	github.com/k2-fsa/sherpa-onnx-go-windows/v2 v2.0.3 // indirect
 	github.com/lucasb-eyer/go-colorful v1.3.0 // indirect
 	github.com/mattn/go-runewidth v0.0.20 // indirect
 	github.com/mitchellh/hashstructure/v2 v2.0.2 // indirect
